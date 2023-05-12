@@ -6,6 +6,7 @@ public class L013binarytoDecimal
 
     class Node
     {
+        
         int data;
         Node next;
         Node(int data)
