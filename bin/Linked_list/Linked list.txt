@@ -1,0 +1,40 @@
+Linked list
+
+Uses of Linked list
+- To implement Stacks and Ques
+- Browser - shifting left and right - doubly linked list
+- Image Gallery - shifting left and right - doubly linked list
+- Music Player - shifting left and right - doubly linked list
+- To implement Hash Map and Hash Set to handle channing (channing to handle collisions in hash map and hash set)
+
+
+Linked List use to store data like - int, media, Image
+
+Arrays vs Linked list
+
+benefits of ll
+    array memory size is continious
+    ll mermory size is not continious
+    so thats wht ll is efficientz
+
+    in array we have initial the size of array
+    in ll we dont have to initialize the size 
+
+benefits of array
+    arrays has indexing o(1)
+    ll dont have indexing to access its members o(n)
+
+for sorting - arrays
+for deletion, insertion - linked list
+
+doubly linked list = both forward and backward list
+single linked list = forward list
+
+
+Vector   : 1) when exceed array limit it will increased capacity by 100%. It waste lots of memory.
+    2) Vector is thread safe.
+    3) It is slow.    
+
+ArrayList : 1) when exceed array limit it will increased capacity by 50%. It save memory.
+    2) ArrayList is not thread safe.
+    3) It is fast.
